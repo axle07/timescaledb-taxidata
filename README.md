@@ -28,7 +28,7 @@ on how to do that.
 
 Finally, another great approach is to use docker. The
 [documentation](https://docs.timescale.com/self-hosted/latest/install/installation-docker/)
-providews instructions here as well. Be warned that if you're running docker
+provides instructions here as well. Be warned that if you're running docker
 on a non linux machine, it will be slower due to having to run through a
 hypervisor.
 
